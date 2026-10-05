@@ -1,0 +1,17 @@
+Herramienta utilizada:
+Microsoft Copilot.
+
+Uso realizado:
+Se utilizó inteligencia artificial como apoyo para preparar el entorno de trabajo,
+crear la estructura inicial del proyecto Django, comprender los comandos,
+revisar errores y verificar el funcionamiento del panel de administración.
+
+Archivos y elementos apoyados por IA:
+.gitignore
+requirements.txt
+Configuración inicial del proyecto y registro de la aplicación.
+
+Cambios y revisión:
+Los comandos fueron ejecutados manualmente y cada etapa fue comprobada antes
+de continuar. El código y la configuración fueron revisados para comprender
+su funcionamiento.
